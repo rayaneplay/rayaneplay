@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rarayane born in early 2000's im still trying to figure how all these stuff work 
-- 👀 I’m interested in programming , problem solving and mathematics (basically anything theory based) 
-- 📫 You can reach me via email or social media (all info currently on my profile page)
+- 👋 Hi, I’m Rayane, currently a Master's student at Université Paris Cité, specializing in Machine Learning for Data Science.
+- 👀 I’m interested in programming , problem solving and mathematics.  
+- 📫 You can reach me via email. 
 
 <!---
 rayaneplay/rayaneplay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
